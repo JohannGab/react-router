@@ -1,0 +1,11 @@
+.selected {
+    color: green;
+    background-color: red;
+    font-size: 40px;
+    
+}
+
+div {
+    font-size: 20px;
+    text-align: center;
+}
